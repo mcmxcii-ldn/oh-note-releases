@@ -1,6 +1,6 @@
-![OhNote! Logo](./assets/oh-note-icon.png)
+<img src="./assets/oh-note-icon.png" width="200" height="200">
 
-# OhNote! ✨📝
+# OhNote! ✨✏️
 
 Welcome to the official download page for Oh!Note App.
 
