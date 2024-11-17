@@ -6,6 +6,8 @@ Welcome to the official download page for Oh!Note App.
 
 Elevate your presentations and brainstorming sessions with **OhNote!** — the ultimate on-screen annotation tool that brings your ideas to life. Whether you're highlighting key points or sketching out concepts, OhNote! lets you draw directly over your screen in real-time.
 
+### 💾 👉 [Download Latest Release](https://github.com/mcmxcii-ldn/oh-note-releases/releases/latest) 👈
+
 ## 🚀 Features
 
 - **Free Drawing Tool**: Unleash your creativity with smooth, freehand drawing.
@@ -19,9 +21,6 @@ Elevate your presentations and brainstorming sessions with **OhNote!** — the u
 - **Global Shortcut**: Quickly show or hide OhNote! with `Command + Control + A`.
 
 ## 🏁 Getting Started
-
-### 💾 Download the latest version:
-[Download Latest Release](https://github.com/mcmxcii-ldn/oh-note-releases/releases/latest)
 
 For more information or to report an issue, please visit our [Issues page](https://github.com/mcmxcii-ldn/oh-note-releases/issues).
 
