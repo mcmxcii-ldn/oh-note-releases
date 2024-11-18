@@ -9,10 +9,12 @@ Elevate your presentations and brainstorming sessions with **OhNote!** — the u
 
 ### 💾 👉 [Download Latest Release](https://github.com/mcmxcii-ldn/oh-note-releases/releases/latest) 👈
 
-<img src="./assets/OhNote_Toolbar_Preview.png" width="90%">
+<img src="./assets/OhNote_Toolbar_Preview.png" width="40%">
 </div>
 
 ## 🚀 Features
+
+<img align="right" src="./assets/oh-note-preview.gif" width="50%">
 
 - **Free Drawing Tool**: Unleash your creativity with smooth, freehand drawing.
 - **Shape Tools**: Add rectangles, circles, and arrows to emphasize important areas.
