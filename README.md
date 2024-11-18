@@ -31,7 +31,8 @@ Elevate your presentations and brainstorming sessions with **OhNote!** — the u
 - [ ] **Whiteboard Mode**: Cover your screen with a blank canvas for drawing on an empty space.
 - [ ] **Granular Customization**: Configure visible tools and colours to match your workflow.
 - [ ] **Color Picker**: Long-press a colour to bring up a picker and adjust it directly from the toolbar.
-- [ ] **Update Options**: Support for checking updates with manual or automatic installation options.
+- [x] **Update Options**: The app has an automatic update check in the tray icon, displaying available updates with the option for manual installation.
+- [ ] **Automatic Installation**: Implement the ability to enable automatic update installation in the app settings.
 - [ ] **Spotlight Frame**: Highlight a specific section of your screen while dimming the rest.
 - [ ] **Mouse Highlighting**: Emphasize the cursor for better visibility.
 - [ ] **Windows Support**: Extend compatibility to the Windows platform.
