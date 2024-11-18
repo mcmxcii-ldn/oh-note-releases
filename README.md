@@ -1,8 +1,6 @@
 <div align="center">
 <img src="./assets/oh-note-icon.png" width="20%">
 
-# OhNote! ✨✏️
-
 Welcome to the official download page for Oh!Note App.
 
 Elevate your presentations and brainstorming sessions with **OhNote!** — the ultimate on-screen annotation tool that brings your ideas to life. Whether you're highlighting key points or sketching out concepts, OhNote! lets you draw directly over your screen in real-time.
