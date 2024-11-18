@@ -1,4 +1,5 @@
-<img src="./assets/oh-note-icon.png" width="20%"><img src="./assets/OhNote_Toolbar_Preview.png" width="80%">
+<div align="center">
+<img src="./assets/oh-note-icon.png" width="20%">
 
 # OhNote! ✨✏️
 
@@ -10,7 +11,8 @@ Elevate your presentations and brainstorming sessions with **OhNote!** — the u
 
 ### 💾 👉 [Download Latest Release](https://github.com/mcmxcii-ldn/oh-note-releases/releases/latest) 👈
 
-
+<img src="./assets/OhNote_Toolbar_Preview.png" width="90%">
+</div>
 
 ## 🚀 Features
 
