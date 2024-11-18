@@ -39,6 +39,30 @@ Elevate your presentations and brainstorming sessions with **OhNote!** — the u
 
 ## 🏁 Getting Started
 
+### 📥 Installation Note for macOS Users
+
+We're excited for you to try **OhNote!** To ensure a smooth installation on macOS, please note the following:
+
+#### **First-Time Installation Instructions**
+
+Since **OhNote!** is currently distributed outside the App Store, you might encounter a security prompt when you first open the app. Don't worry—this is a standard macOS precaution for apps downloaded from the internet.
+
+To open the app:
+
+1. **Locate the Downloaded App**: Find **OhNote!** in your `Downloads` folder or wherever you saved it.
+2. **Open with a Right-Click**:
+   - Right-click (or Control-click) on **OhNote! App**.
+   - Select **Open** from the context menu.
+3. **Confirm Opening**:
+   - A dialog will appear saying the app is from an unidentified developer.
+   - Click **Open** to confirm.
+
+This process tells your Mac that you trust the app and allows it to run smoothly from now on.
+
+#### **Why This Extra Step?**
+
+At **OhNote!**, we're committed to bringing you innovative tools quickly. While we're in the process of obtaining Apple notarization, this additional step ensures you can start using **OhNote!** without delay.
+
 For more information or to report an issue, please visit our [Issues page](https://github.com/mcmxcii-ldn/oh-note-releases/issues).
 
 ### 🎬 Launching the App
