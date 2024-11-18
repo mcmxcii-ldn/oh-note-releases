@@ -1,4 +1,4 @@
-<img src="./assets/oh-note-icon.png" width="200" height="200">
+<img src="./assets/oh-note-icon.png" width="20%"><img src="./assets/OhNote_Toolbar_Preview.png" width="80%">
 
 # OhNote! ✨✏️
 
@@ -9,6 +9,8 @@ Elevate your presentations and brainstorming sessions with **OhNote!** — the u
 🚨 **Currently available for macOS only.**
 
 ### 💾 👉 [Download Latest Release](https://github.com/mcmxcii-ldn/oh-note-releases/releases/latest) 👈
+
+
 
 ## 🚀 Features
 
