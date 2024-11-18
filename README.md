@@ -30,7 +30,7 @@ Elevate your presentations and brainstorming sessions with **OhNote!** — the u
 - [ ] **Update Options**: Support for checking updates with manual or automatic installation options.
 - [ ] **Spotlight Frame**: Highlight a specific section of your screen while dimming the rest.
 - [ ] **Mouse Highlighting**: Emphasize the cursor for better visibility.
-
+- [ ] **Windows Support**: Extend compatibility to the Windows platform.
 
 ## 🏁 Getting Started
 
