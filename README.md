@@ -9,7 +9,7 @@ Elevate your presentations and brainstorming sessions with **OhNote!** — the u
 
 ### 💾 👉 [Download Latest Release](https://github.com/mcmxcii-ldn/oh-note-releases/releases/latest) 👈
 
-<img src="./assets/OhNote_Toolbar_Preview.png" width="40%">
+<img src="./assets/OhNote_Toolbar_Preview.png" width="80%">
 </div>
 
 ## 🚀 Features
