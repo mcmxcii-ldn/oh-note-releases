@@ -6,6 +6,8 @@ Welcome to the official download page for Oh!Note App.
 
 Elevate your presentations and brainstorming sessions with **OhNote!** — the ultimate on-screen annotation tool that brings your ideas to life. Whether you're highlighting key points or sketching out concepts, OhNote! lets you draw directly over your screen in real-time.
 
+🚨 **Currently available for macOS only.**
+
 ### 💾 👉 [Download Latest Release](https://github.com/mcmxcii-ldn/oh-note-releases/releases/latest) 👈
 
 ## 🚀 Features
@@ -19,6 +21,16 @@ Elevate your presentations and brainstorming sessions with **OhNote!** — the u
 - **Reset Canvas**: Clear all annotations instantly to start fresh.
 - **Always On Top**: OhNote! stays above all other windows, so you can annotate anytime.
 - **Global Shortcut**: Quickly show or hide OhNote! with `Command + Control + A`.
+
+## 🛠 Features To-Do
+
+- [ ] **Whiteboard Mode**: Cover your screen with a blank canvas for drawing on an empty space.
+- [ ] **Granular Customization**: Configure visible tools and colours to match your workflow.
+- [ ] **Color Picker**: Long-press a colour to bring up a picker and adjust it directly from the toolbar.
+- [ ] **Update Options**: Support for checking updates with manual or automatic installation options.
+- [ ] **Spotlight Frame**: Highlight a specific section of your screen while dimming the rest.
+- [ ] **Mouse Highlighting**: Emphasize the cursor for better visibility.
+
 
 ## 🏁 Getting Started
 
